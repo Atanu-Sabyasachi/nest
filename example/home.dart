@@ -34,7 +34,7 @@ class _UserFormState extends State<UserForm> {
 
     if (id.isNotEmpty && name.isNotEmpty && age != null) {
       widget.onSubmitted(id, name, age);
-      //_clearFields();
+      _clearFields();
     }
   }
 
