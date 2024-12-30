@@ -1,6 +1,6 @@
 name: nest
 description: "Lightweight, in-memory NoSQL database for Dart/Flutter with persistent storage, schema validation, and optional encryption."
-version: 0.1.0
+version: 1.0.0
 repository: https://github.com/Atanu-Sabyasachi/nest
 homepage: https://github.com/Atanu-Sabyasachi/nest
 funding:

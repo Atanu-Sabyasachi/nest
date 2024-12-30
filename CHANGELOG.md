@@ -2,7 +2,7 @@
 
 All notable changes to this package will be documented in this file.
 
-## [0.1.0] - 2024-12-30
+## [1.0.0] - 2024-12-30
 ### Added
 - **Initial release** of the `Nest` package for Flutter.
   
